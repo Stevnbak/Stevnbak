@@ -1,0 +1,205 @@
+/* CSS reset*/
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+#main {
+  width: 100%;
+  min-height: 1500px;
+  margin: none;
+  background-image: url("background.jpg");
+  background-attachment: fixed;
+}
+
+.WText {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 30px;
+  font-style: bold;
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: #000000;
+  text-shadow: -2px -2px 0 #555555, 2px -2px 0 #555555, -2px 2px 0 #555555,
+    2px 2px 0 #555555;
+  width: 500px;
+}
+.Text {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 20px;
+  font-style: bold;
+  font-family: "Arial Black", Gadget, sans-serif;
+  color: #000000;
+}
+.loadout {
+  max-width: 100%;
+  border-radius: 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+}
+
+.generate {
+  background-color: rgb(223, 223, 223);
+  width: 200px;
+  height: 30px;
+  position: relative;
+  left: 50%;
+  margin-left: -100px;
+}
+
+.loadoutBG {
+  position: absolute;
+  top: 185px;
+  left: 50%;
+  margin-left: -375px;
+}
+
+#P {
+  position: absolute;
+  top: 255;
+  left: 50%;
+  margin-left: -355px;
+}
+#S {
+  position: absolute;
+  top: 237.5px;
+  left: 50%;
+  margin-left: 115px;
+}
+#W1 {
+  position: absolute;
+  top: 560;
+  left: 50%;
+  margin-left: -355px;
+}
+#W2 {
+  position: absolute;
+  top: 760;
+  left: 50%;
+  margin-left: -355px;
+}
+#W3 {
+  position: absolute;
+  top: 960;
+  left: 50%;
+  margin-left: -355px;
+}
+#W4 {
+  position: absolute;
+  top: 1165;
+  left: 50%;
+  margin-left: -355px;
+}
+#A1 {
+  position: absolute;
+  top: 540;
+  left: 50%;
+  margin-left: 115px;
+}
+#A2 {
+  position: absolute;
+  top: 745;
+  left: 50%;
+  margin-left: 115px;
+}
+#A3 {
+  position: absolute;
+  top: 950;
+  left: 50%;
+  margin-left: 115px;
+}
+#A4 {
+  position: absolute;
+  top: 1155;
+  left: 50%;
+  margin-left: 115px;
+}
