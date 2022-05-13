@@ -1,17 +1,19 @@
-### Hi there 👋
-Welcome to my github page :)
-to check all my projects go to https://stevnbak.dk
-<!--
-**Stevnbak/Stevnbak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Heya 👋
+I'm Stevn
+I am a general programmer. I make games, web stuff, discord bots, game information gathering and more.
 
-Here are some ideas to get you started:
+The Cycle Frontier
+I am an information dataminer for The Cycle Frontier, this information can be found here on GitHub. I also do the backend side of the wiki interactive map for The Cycle Frontier (https://map.thecyclefrontier.wiki) and the technical side of the wikipedia for The Cycle Frontier (https://thecyclefrontier.wiki).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Website
+You can find more information about what I do on my website (https://stevnbak.dk) I am currently working on a complete revamp of this site.
+
+Ordle
+Ordle is a danish version of Wordle, can be found here: https://ordle.stevnbak.dk
+
+Games
+I make small games like this one: Maze Game
+I am always working on some game, tho process is slow on these.
+
+Discord Bot
+I am the creator of Stevnbot, you can invite it to your server here. I also make other private discord bots for specific features I need.
