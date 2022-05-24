@@ -2,7 +2,7 @@
 I'm Stevn
 I am a general programmer. I make games, web stuff, discord bots, game information gathering and more.
 
-##The Cycle Frontier
+###The Cycle Frontier
 I am an information dataminer for The Cycle Frontier, this information can be found here on GitHub. I also do the backend side of the wiki interactive map for The Cycle Frontier (https://map.thecyclefrontier.wiki) and the technical side of the wikipedia for The Cycle Frontier (https://thecyclefrontier.wiki).
 
 ##Website
