@@ -4,7 +4,7 @@ I code a variety of things, such as web stuff, discord bots, game information ga
 
 **The Cycle Frontier**
 
-I am an information dataminer for [The Cycle Frontier](thecycle.game), this information can be found here on GitHub in the [TCF-Wiki organization](github.com/TCF-Wiki). I also work on all things [The Cycle Frontier Wiki](https://thecyclefrontier.wiki) and belonging [pages](https://apps.thecyclefrontier.wiki).
+I am an information dataminer for [The Cycle Frontier](thecycle.game), this information can be found here on GitHub in the [TCF-Wiki organization](https://github.com/TCF-Wiki). I also work on all things [The Cycle Frontier Wiki](https://thecyclefrontier.wiki) and belonging [pages](https://apps.thecyclefrontier.wiki).
 
 **[Website](https://stevnbak.dk)**
 
